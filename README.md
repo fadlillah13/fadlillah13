@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fadlillah
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning PHP and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
